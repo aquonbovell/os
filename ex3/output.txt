@@ -1,0 +1,11 @@
+Parent completed
+98, 84, 40, 40, 90, 104
+90
+46
+46
+96
+The smallest element is 46
+The largest element is 104
+Child Process completed
+Thread printing from the parent process
+Parent completed
